@@ -1,16 +1,20 @@
-## Hi there 👋
+### О себе
 
-<!--
-**verp205/verp205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я развиваюсь в backend-разработке на Java. Осознанно выбрал это направление, так как мне близка работа с логикой, данными и построением надёжных систем. Получаю практический опыт через разработку приложений, работу с базами данных, тестирование и изучение архитектурных подходов. Уделяю внимание качеству кода, читаемости и принципам проектирования.
 
-Here are some ideas to get you started:
+### Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Язык и основы:** Java, Java Core, ООП, SOLID
+* **Фреймворки и технологии:** Spring Framework, Spring Boot, Spring Data, Spring Web, Hibernate, JDBC, ORM, Java Servlets
+* **Базы данных и кэш:** PostgreSQL, SQL, Redis
+* **Тестирование:** JUnit, Mockito, интеграционное тестирование
+* **Инструменты и среды:** Git, Docker, Postman, IntelliJ IDEA
+* **Сборка и CI/CD:** Maven, Gradle, CI/CD
+* **Архитектура и API:** REST, REST API, микросервисная архитектура
+* **Дополнительно:** Apache Kafka
+
+Готов применять знания на практике, углублять экспертизу и развиваться до уровня уверенного backend-разработчика.
+
+**Вот ресурсы где вы можете со мной связатся:** 
+**ТГ:** https://t.me/VoussOfficial
+**Почта:** s4naumenko@yandex.ru
